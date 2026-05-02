@@ -6,7 +6,7 @@ The system combines planar laser scans and 3D point clouds to build a consistent
 ## Simulation Video
 https://www.youtube.com/watch?v=1SAAv57ydL4
 
-<image src=image1.png/>
+<image src=image3.png/>
 
 ## 🚀 Key Features
 
@@ -60,5 +60,4 @@ ros2 launch my_robot_description octomap.launch.py
 ```
 
 
-Attachments area
-Preview YouTube video 3D fused mapPreview YouTube video 3D fused map
+
