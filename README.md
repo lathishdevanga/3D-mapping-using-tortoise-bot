@@ -6,7 +6,7 @@ The system combines planar laser scans and 3D point clouds to build a consistent
 ## Simulation Video
 https://www.youtube.com/watch?v=1SAAv57ydL4
 
-<image src=image.png/>
+<image src=image1.png/>
 
 ## 🚀 Key Features
 
